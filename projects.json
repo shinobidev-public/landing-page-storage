@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Aplikasi RDD (Road Damage Detection)",
+    "language": "Python",
+    "tech_stack": "Native",
+    "developer": "Kevin Rio Alexander",
+    "image_url": "None",
+    "details": "None"
+  },
+  {
+    "title": "Aplikasi Deteksi Menggunakan YOLO",
+    "language": "Python",
+    "tech_stack": "Native",
+    "developer": "Kevin Rio Alexander",
+    "image_url": "None",
+    "details": "None"
+  },
+  {
+    "title": "Aplikasi Braille Android Menggunakan YOLO",
+    "language": "Python",
+    "tech_stack": "Native",
+    "developer": "Kevin Rio Alexander",
+    "image_url": "None",
+    "details": "None"
+  },
+  {
+    "title": "Aplkasi Android Perhitungan Bunga Kredit",
+    "language": "Java",
+    "tech_stack": "Android Studio",
+    "developer": "Kevin Rio Alexander",
+    "image_url": "None",
+    "details": "None"
+  },
+  {
+    "title": "Aplikasi Absensi Android",
+    "language": "Java",
+    "tech_stack": "Android Studio",
+    "developer": "Kevin Rio Alexander",
+    "image_url": "None",
+    "details": "None"
+  },
+  {
+    "title": "Aplikasi Gudang / Inventaris",
+    "language": "PHP",
+    "tech_stack": "Native",
+    "developer": "Kevin Rio Alexander",
+    "image_url": "None",
+    "details": "None"
+  }
+]
