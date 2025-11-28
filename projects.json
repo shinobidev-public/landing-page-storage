@@ -1,50 +1,74 @@
 [
   {
     "title": "Aplikasi RDD (Road Damage Detection)",
-    "language": "Python",
-    "tech_stack": "Native",
-    "developer": "Kevin Rio Alexander",
-    "image_url": null,
-    "details": null
+    "media_url": {
+      "images": null,
+      "videos": null
+    },
+    "details": {
+      "language": "Python",
+      "tech_stack": "Native",
+      "description": null
+    }
   },
   {
     "title": "Aplikasi Deteksi Menggunakan YOLO",
-    "language": "Python",
-    "tech_stack": "Native",
-    "developer": "Kevin Rio Alexander",
-    "image_url": null,
-    "details": null
+    "media_url": {
+      "images": null,
+      "videos": null
+    },
+    "details": {
+      "language": "Python",
+      "tech_stack": "Native",
+      "description": null
+    }
   },
   {
     "title": "Aplikasi Braille Android Menggunakan YOLO",
-    "language": "Python",
-    "tech_stack": "Native",
-    "developer": "Kevin Rio Alexander",
-    "image_url": null,
-    "details": null
+    "media_url": {
+      "images": null,
+      "videos": null
+    },
+    "details": {
+      "language": "Python",
+      "tech_stack": "Native",
+      "description": null
+    }
   },
   {
-    "title": "Aplkasi Android Perhitungan Bunga Kredit",
-    "language": "Java",
-    "tech_stack": "Android Studio",
-    "developer": "Kevin Rio Alexander",
-    "image_url": null,
-    "details": null
+    "title": "Aplikasi Android Perhitungan Bunga Kredit",
+    "media_url": {
+      "images": null,
+      "videos": null
+    },
+    "details": {
+      "language": "Java",
+      "tech_stack": "Android Studio",
+      "description": null
+    }
   },
   {
     "title": "Aplikasi Absensi Android",
-    "language": "Java",
-    "tech_stack": "Android Studio",
-    "developer": "Kevin Rio Alexander",
-    "image_url": null,
-    "details": null
+    "media_url": {
+      "images": null,
+      "videos": null
+    },
+    "details": {
+      "language": "Java",
+      "tech_stack": "Android Studio",
+      "description": null
+    }
   },
   {
     "title": "Aplikasi Gudang / Inventaris",
-    "language": "PHP",
-    "tech_stack": "Native",
-    "developer": "Kevin Rio Alexander",
-    "image_url": null,
-    "details": null
+    "media_url": {
+      "images": null,
+      "videos": null
+    },
+    "details": {
+      "language": "PHP",
+      "tech_stack": "Native",
+      "description": null
+    }
   }
 ]
