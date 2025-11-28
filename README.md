@@ -2,7 +2,10 @@ project template:
 ```
 {
   "title": "Aplikasi RDD (Road Damage Detection)",
-  "image_url": null,
+  "media_url": {
+    "images": null,
+    "videos": null
+  },
   "details": {
     "language": "Python",
     "tech_stack": "Native",
