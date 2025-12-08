@@ -54,19 +54,6 @@
     }
   },
   {
-    "title": "Aplikasi Android Perhitungan Bunga Kredit",
-    "media_url": {
-      "images": null,
-      "videos": null
-    },
-    "details": {
-      "language": "Java",
-      "tech_stack": "Android Studio",
-      "description": null,
-      "status": "completed"
-    }
-  },
-  {
     "title": "Aplikasi Absensi Android",
     "media_url": {
       "images": null,
