@@ -3,9 +3,7 @@
     "title": "Fullstack website Hilltown Resort",
     "media_url": {
       "images": "@gh/Hilltown Resort",
-      "videos": [
-        "https://drive.google.com/file/d/1cc_n2xqTZhpkDUjZmQfqMIPnXpXEND7V/view?usp=drive_link"
-      ]
+      "videos": "https://drive.google.com/file/d/1cc_n2xqTZhpkDUjZmQfqMIPnXpXEND7V/preview"
     },
     "details": {
       "language": "PHP",
