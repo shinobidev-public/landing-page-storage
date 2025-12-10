@@ -1,5 +1,22 @@
 [
   {
+    "title": "Fullstack webapp Jyuzu",
+    "media_url": {
+      "images": null,
+      "videos": null
+    },
+    "details": {
+      "language": [
+        "Vue", "PHP", "Typescript"
+      ],
+      "tech_stack": [
+        "Vue", "Laravel"
+      ],
+      "description": null,
+      "status": "ongoing"
+    }
+  },
+  {
     "title": "Multi-Role Dashboard Bintang Network",
     "media_url": {
       "images": "@gh/Bintang Network",
