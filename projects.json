@@ -13,7 +13,8 @@
         "Vue", "Laravel"
       ],
       "description": null,
-      "status": "ongoing"
+      "status": "ongoing",
+      "date": "7/11/2025"
     }
   },
   {
@@ -26,7 +27,8 @@
       "language": "PHP",
       "tech_stack": "Native",
       "description": null,
-      "status": "completed"
+      "status": "completed",
+      "date": "17/8/2024"
     }
   },
   {
@@ -42,7 +44,8 @@
       "language": "PHP",
       "tech_stack": "Native",
       "description": null,
-      "status": "completed"
+      "status": "completed",
+      "date": "7/6/2024"
     }
   },
   {
@@ -55,7 +58,8 @@
       "language": "PHP",
       "tech_stack": "Native",
       "description": null,
-      "status": "completed"
+      "status": "completed",
+      "date": "9/8/2024"
     }
   },
   {
@@ -68,7 +72,8 @@
       "language": "PHP",
       "tech_stack": "Laravel",
       "description": null,
-      "status": "completed"
+      "status": "completed",
+      "date": "20/9/2024"
     }
   },
   {
@@ -81,7 +86,8 @@
       "language": "Python",
       "tech_stack": "Native",
       "description": null,
-      "status": "completed"
+      "status": "completed",
+      "date": "1/1/2023"
     }
   },
   {
@@ -94,7 +100,8 @@
       "language": "Python",
       "tech_stack": "Native",
       "description": null,
-      "status": "completed"
+      "status": "completed",
+      "date": "1/1/2023"
     }
   },
   {
@@ -107,7 +114,8 @@
       "language": "Python",
       "tech_stack": "Native",
       "description": null,
-      "status": "completed"
+      "status": "completed",
+      "date": "1/1/2023"
     }
   },
   {
@@ -120,7 +128,8 @@
       "language": "Java",
       "tech_stack": "Android Studio",
       "description": null,
-      "status": "completed"
+      "status": "completed",
+      "date": "1/1/2023"
     }
   },
   {
@@ -133,7 +142,8 @@
       "language": "PHP",
       "tech_stack": "Native",
       "description": null,
-      "status": "completed"
+      "status": "completed",
+      "date": "1/1/2023"
     }
   }
 ]
